@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![web102_p2](https://github.com/1angad/web102_p2/assets/96559688/ab4b79f8-3019-4209-8ed6-16a73bd3eee5)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
